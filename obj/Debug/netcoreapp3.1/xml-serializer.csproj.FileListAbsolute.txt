@@ -1,0 +1,11 @@
+/Users/neal/project/xml-serializer/bin/Debug/netcoreapp3.1/xml-serializer
+/Users/neal/project/xml-serializer/bin/Debug/netcoreapp3.1/xml-serializer.deps.json
+/Users/neal/project/xml-serializer/bin/Debug/netcoreapp3.1/xml-serializer.runtimeconfig.json
+/Users/neal/project/xml-serializer/bin/Debug/netcoreapp3.1/xml-serializer.runtimeconfig.dev.json
+/Users/neal/project/xml-serializer/bin/Debug/netcoreapp3.1/xml-serializer.dll
+/Users/neal/project/xml-serializer/bin/Debug/netcoreapp3.1/xml-serializer.pdb
+/Users/neal/project/xml-serializer/obj/Debug/netcoreapp3.1/xml-serializer.csprojAssemblyReference.cache
+/Users/neal/project/xml-serializer/obj/Debug/netcoreapp3.1/xml-serializer.AssemblyInfoInputs.cache
+/Users/neal/project/xml-serializer/obj/Debug/netcoreapp3.1/xml-serializer.AssemblyInfo.cs
+/Users/neal/project/xml-serializer/obj/Debug/netcoreapp3.1/xml-serializer.dll
+/Users/neal/project/xml-serializer/obj/Debug/netcoreapp3.1/xml-serializer.pdb
