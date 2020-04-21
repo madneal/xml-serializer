@@ -1,0 +1,3 @@
+/Users/dongbing/project/xml-serializer/object-data-provider/obj/Debug/netcoreapp3.1/object-data-provider.csprojAssemblyReference.cache
+/Users/dongbing/project/xml-serializer/object-data-provider/obj/Debug/netcoreapp3.1/object-data-provider.AssemblyInfoInputs.cache
+/Users/dongbing/project/xml-serializer/object-data-provider/obj/Debug/netcoreapp3.1/object-data-provider.AssemblyInfo.cs
