@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/neal/project/xml-serializer/xml-serializer.csproj": {}
+    "/Users/dongbing/project/xml-serializer/basic-serializer/basic-serializer.csproj": {}
   },
   "projects": {
-    "/Users/neal/project/xml-serializer/xml-serializer.csproj": {
+    "/Users/dongbing/project/xml-serializer/basic-serializer/basic-serializer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/neal/project/xml-serializer/xml-serializer.csproj",
-        "projectName": "xml-serializer",
-        "projectPath": "/Users/neal/project/xml-serializer/xml-serializer.csproj",
-        "packagesPath": "/Users/neal/.nuget/packages/",
-        "outputPath": "/Users/neal/project/xml-serializer/obj/",
+        "projectUniqueName": "/Users/dongbing/project/xml-serializer/basic-serializer/basic-serializer.csproj",
+        "projectName": "basic-serializer",
+        "projectPath": "/Users/dongbing/project/xml-serializer/basic-serializer/basic-serializer.csproj",
+        "packagesPath": "/Users/dongbing/.nuget/packages/",
+        "outputPath": "/Users/dongbing/project/xml-serializer/basic-serializer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/neal/.nuget/NuGet/NuGet.Config"
+          "/Users/dongbing/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

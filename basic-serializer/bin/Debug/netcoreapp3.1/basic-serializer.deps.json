@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "xml-serializer/1.0.0": {
+      "basic-serializer/1.0.0": {
         "runtime": {
-          "xml-serializer.dll": {}
+          "basic-serializer.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "xml-serializer/1.0.0": {
+    "basic-serializer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

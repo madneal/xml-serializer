@@ -1,0 +1,11 @@
+/Users/dongbing/project/xml-serializer/basic-serializer/bin/Debug/netcoreapp3.1/basic-serializer
+/Users/dongbing/project/xml-serializer/basic-serializer/bin/Debug/netcoreapp3.1/basic-serializer.deps.json
+/Users/dongbing/project/xml-serializer/basic-serializer/bin/Debug/netcoreapp3.1/basic-serializer.runtimeconfig.json
+/Users/dongbing/project/xml-serializer/basic-serializer/bin/Debug/netcoreapp3.1/basic-serializer.runtimeconfig.dev.json
+/Users/dongbing/project/xml-serializer/basic-serializer/bin/Debug/netcoreapp3.1/basic-serializer.dll
+/Users/dongbing/project/xml-serializer/basic-serializer/bin/Debug/netcoreapp3.1/basic-serializer.pdb
+/Users/dongbing/project/xml-serializer/basic-serializer/obj/Debug/netcoreapp3.1/basic-serializer.csprojAssemblyReference.cache
+/Users/dongbing/project/xml-serializer/basic-serializer/obj/Debug/netcoreapp3.1/basic-serializer.AssemblyInfoInputs.cache
+/Users/dongbing/project/xml-serializer/basic-serializer/obj/Debug/netcoreapp3.1/basic-serializer.AssemblyInfo.cs
+/Users/dongbing/project/xml-serializer/basic-serializer/obj/Debug/netcoreapp3.1/basic-serializer.dll
+/Users/dongbing/project/xml-serializer/basic-serializer/obj/Debug/netcoreapp3.1/basic-serializer.pdb
